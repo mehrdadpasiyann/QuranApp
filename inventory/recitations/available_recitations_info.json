@@ -4,25 +4,23 @@
   },
   "reciters": [
     {
-      "slug": "fooladvand-hedayatfar",
-      "lang-code": "fa",
-      "lang-name": "فارسی",
-      "reciter": "فولادوند - هدایت فر",
+      "slug": "abdul-basit",
+      "reciter": "عبدالباسط",
+      "style": "تجوید",
       "url-host": null,
-      "url-path": "/res/audio/fa.fooladvand/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "فولادوند - هدایتفر"
+        "fa": "عبدالباسط محمد عبدالصمد"
       }
     },
-      {
-      "slug": "makarem-shiraz",
-      "lang-code": "fa",
-      "lang-name": "فارسی",
-      "reciter": "مکارم شیرازی",
+    {
+      "slug": "parhiz-gar",
+      "reciter": "پرهیزکار",
+      "style": null,
       "url-host": null,
-      "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/parhizgar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "مکارم شیرازی"
+        "fa": "پرهیزکار"
       }
     }
   ]
