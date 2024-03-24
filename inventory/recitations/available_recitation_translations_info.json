@@ -13,6 +13,17 @@
       "translations": {
         "fa": "فولادوند - هدایتفر"
       }
+    },
+      {
+      "slug": "makarem-shiraz",
+      "lang-code": "fa",
+      "lang-name": "فارسی",
+      "reciter": "مکارم شیرازی",
+      "url-host": null,
+      "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "مکارم شیرازی"
+      }
     }
   ]
 }
