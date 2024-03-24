@@ -7,7 +7,7 @@
       "slug": "fooladvand-hedayatfar",
       "lang-code": "fa",
       "lang-name": "فارسی",
-      "reciter": "Fooladvand Hedayatfar",
+      "reciter": "فولادوند - هدایت فر",
       "url-host": null,
       "url-path": "/res/audio/fa.fooladvand/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
@@ -18,7 +18,7 @@
       "slug": "makarem-shiraz",
       "lang-code": "fa",
       "lang-name": "فارسی",
-      "reciter": "makarem shirazi",
+      "reciter": "مکارم شیرازی",
       "url-host": null,
       "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
