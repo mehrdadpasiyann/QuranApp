@@ -10,17 +10,17 @@
       "url-host": null,
       "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "عبدالباسط محمد عبدالصمد",
+        "fa": "عبدالباسط محمد عبدالصمد"
       }
     },
-     {
+    {
       "slug": "parhiz-gar",
       "reciter": "پرهیزکار",
       "style": null,
       "url-host": null,
       "url-path": "/res/audio/parhizgar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "پرهیزکار",
+        "fa": "پرهیزکار"
       }
     }
   ]
