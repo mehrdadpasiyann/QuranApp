@@ -10,21 +10,7 @@
       "url-host": null,
       "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "ar": "عبد الباسط عبد الصمد",
-        "bn": "আবদুল বাসিত 'আব্দ উস-সামাদ",
-        "ckb": "عەبدولباست عەبدولسەمەد",
-        "de": "Abdul-Basit Abdus-Samad",
-        "es": "Abdul-Basit Abdus-Samad",
         "fa": "عبدالباسط محمد عبدالصمد",
-        "fr": "Abdelbasset Abdessamad",
-        "gu": "અબ્દુલ બાસિત અબ્દુલ સમદ",
-        "hi": "अब्दुल बासित अब्दुस समद",
-        "in": "Abdul-Basit Abdus-Samad",
-        "it": "Abdul-Basit Abdus-Samad",
-        "ml": "അബ്ദുൽ-ബാസിത് അബ്ദുസമദ്",
-        "pt": "Abdul-Basit Abdus-Samad",
-        "tr": "Abdulbasit Abdussamed",
-        "ur": "عبد الباسط بن عبد الصمد"
       }
     }
   ]
