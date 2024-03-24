@@ -3,14 +3,26 @@
     "common-host": "tanzil.ir"
   },
   "reciters": [
-   {
-      "slug": "abdul-basit",
-      "reciter": "عبدالباسط",
-      "style": "تجوید",
+    {
+      "slug": "fooladvand-hedayatfar",
+      "lang-code": "fa",
+      "lang-name": "فارسی",
+      "reciter": "فولادوند - هدایت فر",
       "url-host": null,
-      "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/fa.fooladvand/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "عبدالباسط محمد عبدالصمد",
+        "fa": "فولادوند - هدایتفر"
+      }
+    },
+      {
+      "slug": "makarem-shiraz",
+      "lang-code": "fa",
+      "lang-name": "فارسی",
+      "reciter": "مکارم شیرازی",
+      "url-host": null,
+      "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "مکارم شیرازی"
       }
     }
   ]
