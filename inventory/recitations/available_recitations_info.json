@@ -75,7 +75,7 @@
 
  "slug":"bukhatie",
       "reciter": "صلاح بوخاطر",
-      "style":"null",
+      "style":"",
       "url-host": null,
       "url-path": "/res/audio/bukhatie/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
@@ -92,7 +92,7 @@
 
  "slug":"at-tablawi",
       "reciter": "شیخ الطبلوی",
-      "style":"null",
+      "style":"",
       "url-host": null,
       "url-path": "/res/audio/tablawi/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
