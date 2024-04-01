@@ -24,6 +24,32 @@
       "translations": {
         "fa": "مکارم شیرازی"
       }
+       },
+    {
+ "slug": "as-sudais",
+      "reciter": "Abdur-Rahman as-Sudais",
+      "style": null,
+      "url-host": null,
+      "url-path": "/Sudais/mp3/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "ar": "عبد الرحمن السديس",
+        "bn": "আবদুর রহমান আল-সুদাইস",
+        "ckb": "عەبدولڕەحمان سودەیسی",
+        "de": "Abdur-Rahman as-Sudais",
+        "es": "Abdur-Rahman as-Sudais",
+        "fa": "عبدالرحمن السدیس",
+        "fr": "Abdul Rahman Al-Sudais",
+        "gu": "અબ્દુર-રહેમાન અલ-સુદૈસ",
+        "hi": "अब्दुर-रहमान अस-सुदैस",
+        "in": "Abdurrahman as-Sudais",
+        "it": "Abdur-Rahman as-Sudais",
+        "ml": "അബ്ദുൽറഹ്മാൻ അൽ സുദൈസ്",
+        "pt": "Abdur-Rahman as-Sudais",
+        "tr": "Abdurrahman Sudeysi",
+        "ur": "عبدالرحمٰن السدیس"
+
+
+      
     }
   ]
 }
