@@ -5,7 +5,7 @@
   "reciters": [
     {
       "slug": "abdul-basit",
-      "reciter": "عبدالباسط محمد عبدالصمد سلیم داود ",
+      "reciter": "عبدالباسط محمد عبدالصمد ",
       "style": "تجوید",
       "url-host": null,
       "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
@@ -15,7 +15,7 @@
     },
     {
       "slug": "parhiz-gar",
-      "reciter": "شهریار پرهیزکار",
+      "reciter": " استاد شهریار پرهیزگار",
       "style": null,
       "url-host": null,
       "url-path": "/res/audio/parhizgar/{chapNo:%03d}{verseNo:%03d}.mp3",
