@@ -73,11 +73,11 @@
     },
     {
 
- "slug":"bukhatie",
+ "slug":"bukhatir",
       "reciter": "صلاح بوخاطر",
       "style":"",
       "url-host": null,
-      "url-path": "/res/audio/bukhatie/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/bukhatir/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "بوخاطر"
 
