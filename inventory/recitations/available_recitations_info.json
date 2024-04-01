@@ -64,6 +64,62 @@
       "url-path": "/res/audio/ayyub/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "ایوب"
+
+
+
+
+
+  }
+    },
+    {
+
+ "slug":"bukhatie",
+      "reciter": "صلاح بوخاطر",
+      "style":"null",
+      "url-host": null,
+      "url-path": "/res/audio/bukhatie/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "بوخاطر"
+
+
+
+
+
+
+          }
+    },
+    {
+
+ "slug":"at-tablawi",
+      "reciter": "شیخ الطبلوی",
+      "style":"null",
+      "url-host": null,
+      "url-path": "/res/audio/tablawi/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "الطبلوی"
+
+
+
+
+    }
+    },
+    {
+
+ "slug":"ash-shuraim",
+      "reciter": "ابراهیم بن محمد الشریم",
+      "style":"ریاض-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/shuraim/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "الشریم "
+
+
+
+
+
+
+
+        
       }
     }
   ]
