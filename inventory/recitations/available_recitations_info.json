@@ -48,7 +48,11 @@
   "slug": "as-sudais",
       "reciter": "Abdur-Rahman as-Sudais",
       "style": null,
-      "url-host": verses.quran.com,
+
+    "common-host": "verses.quran.com"
+
+      
+      "url-host": null,
       "url-path": "/res/audio/basfar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "ar": "عبد الرحمن السديس",
