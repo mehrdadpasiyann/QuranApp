@@ -18,7 +18,7 @@
       "slug": "makarem-shiraz",
       "lang-code": "fa",
       "lang-name": "فارسی",
-      "reciter": "مکارم شیرازی",
+      "reciter": " استاد مکارم شیرازی",
       "url-host": null,
       "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
