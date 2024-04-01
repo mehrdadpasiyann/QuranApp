@@ -53,7 +53,7 @@
 
       
       "url-host": null,
-      "url-path": "/res/audio/basfar/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/Mujawwad/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "ar": "عبد الرحمن السديس",
         "bn": "আবদুর রহমান আল-সুদাইস",
