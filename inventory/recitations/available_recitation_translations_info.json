@@ -23,6 +23,28 @@
       "url-path": "/res/audio/fa.makarem/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "مکارم شیرازی"
+
+         }
+    },
+    {
+
+
+ "slug": "Mohsen-Gharaati",
+      "lang-code": "fa",
+      "lang-name": "فارسی",
+      "reciter": "محسن قرائتی",
+      "url-host": null,
+      "url-path": "/res/audio/fa.Gharaati/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "محسن قرائتی"
+
+
+
+
+
+
+      
+      
       }
     }
   ]
