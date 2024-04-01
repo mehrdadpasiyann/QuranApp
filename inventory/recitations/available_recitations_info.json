@@ -16,7 +16,7 @@
     {
       "slug": "parhiz-gar",
       "reciter": " استاد شهریار پرهیزگار",
-      "style": "ایران",
+      "style": "تهران-ایران",
       "url-host": null,
       "url-path": "/res/audio/parhizgar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
@@ -31,7 +31,7 @@
 
        "slug": "basfar-far",
       "reciter": "عبدالله بصفر",
-      "style": null,
+      "style": جده،عربستان سعودی,
       "url-host": null,
       "url-path": "/res/audio/basfar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
