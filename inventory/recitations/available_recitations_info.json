@@ -117,6 +117,34 @@
 
 
 
+ }
+    },
+    {
+
+ "slug":"al-matrood",
+      "reciter": "عبدالله المترود",
+      "style":"جیزان-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/matrood/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "المترود "
+
+
+
+
+
+         }
+    },
+    {
+
+ "slug":"al-hudhaify",
+      "reciter": "علی بن عبدالرحمن الحذیفی",
+      "style":"مدینه-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/hudhaify/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "الحذیفی "
+
 
 
         
