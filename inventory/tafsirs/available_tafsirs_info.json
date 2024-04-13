@@ -18,6 +18,37 @@
         "langCode": "en",
         "langName": "English",
         "slug": "en-tafisr-ibn-kathir"
+      
+
+
+
+
+
+
+
+
+
+        
+        }
+    ],
+    "fa": [
+      {
+        "key": "fa_tafsir-ibn-kathir",
+        "name": "Tafsir Ibn Kathir",
+        "author": "Tafsir Al-Saadi",
+        "langCode": "fa",
+        "langName": "Persian ",
+        "slug": "fa-tafisr-ibn-kathir"
+
+
+
+
+
+
+
+        
+      
+      
       }
     ],
     "ur": [
