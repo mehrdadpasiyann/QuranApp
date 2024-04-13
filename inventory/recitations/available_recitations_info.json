@@ -1,11 +1,11 @@
 {
   "url-info": {
-    "common-host": "quran.inoor.ir/fa/quran"
+    "common-host": "tanzil.ir"
   },
   "reciters": [
     {
       "slug": "abdul-basit",
-      "reciter": "عبدالباسط مdحمد عبدالصمد ",
+      "reciter": "عبدالباسط محمد عبدالصمد ",
       "style": "تجوید",
       "url-host": null,
       "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
@@ -41,27 +41,6 @@
       "url-path": "/res/audio/jibreel/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "جبرئیل"
-
-
-
-  }
-    },
-    {
-       "slug":"حامد شاکر نژاد",
-      "reciter": "حامد شاکر نژاد",
-      "style":"حامد شاکر نژاد",
-      "url-host": null,
-      "url-path": "/res/audio/hamed/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "حامد شاکر نژاد"
-
-
-
-
-
-
-
-        
       }
     },
     {
