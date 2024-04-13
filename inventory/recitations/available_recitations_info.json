@@ -21,9 +21,61 @@
       "url-path": "/res/audio/parhizgar/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "پرهیزکار"
-  }
+
+}
     },
     {
+ "slug":"muhammad-ayyub",
+      "reciter": "محمد ایوب",
+      "style":"عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/ayyub/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "ایوب"
+
+}
+    },
+    {
+
+"slug":"ash-shuraim",
+      "reciter": "ابراهیم بن محمد الشریم",
+      "style":"ریاض-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/shuraim/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "الشریم "
+ }
+    },
+    {
+
+
+
+"slug":"al-matrood",
+      "reciter": "عبدالله المترود",
+      "style":"جیزان-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/matrood/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "المترود "
+         }
+    },
+    {
+
+
+
+ "slug":"al-hudhaify",
+      "reciter": "علی بن عبدالرحمن الحذیفی",
+      "style":"مدینه-عربستان سعودی",
+      "url-host": null,
+      "url-path": "/res/audio/hudhaify/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "الحذیفی "
+
+
+ }
+    },
+    {
+      
        "slug": "basfar-far",
       "reciter": "عبدالله بصفر",
       "style":"جده،عربستان سعودی",
@@ -41,16 +93,7 @@
       "url-path": "/res/audio/jibreel/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "جبرئیل"
-      }
-    },
-    {
- "slug":"muhammad-ayyub",
-      "reciter": "محمد ایوب",
-      "style":"عربستان سعودی",
-      "url-host": null,
-      "url-path": "/res/audio/ayyub/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "ایوب"
+      
   }
     },
     {
@@ -73,39 +116,7 @@
       "url-path": "/res/audio/tablawi/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "الطبلوی"
-    }
-    },
-    {
-
- "slug":"ash-shuraim",
-      "reciter": "ابراهیم بن محمد الشریم",
-      "style":"ریاض-عربستان سعودی",
-      "url-host": null,
-      "url-path": "/res/audio/shuraim/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "الشریم "
- }
-    },
-    {
-
- "slug":"al-matrood",
-      "reciter": "عبدالله المترود",
-      "style":"جیزان-عربستان سعودی",
-      "url-host": null,
-      "url-path": "/res/audio/matrood/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "المترود "
-         }
-    },
-    {
-
- "slug":"al-hudhaify",
-      "reciter": "علی بن عبدالرحمن الحذیفی",
-      "style":"مدینه-عربستان سعودی",
-      "url-host": null,
-      "url-path": "/res/audio/hudhaify/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "الحذیفی "
+    
 
       }
     }
