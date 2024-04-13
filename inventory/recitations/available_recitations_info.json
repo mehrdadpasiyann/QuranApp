@@ -41,6 +41,27 @@
       "url-path": "/res/audio/jibreel/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "جبرئیل"
+
+
+
+  }
+    },
+    {
+       "slug":"حامد شاکر نژاد",
+      "reciter": "hamed hamed",
+      "style":"روستای طهوریه-مصر",
+      "url-host": null,
+      "url-path": "/res/audio/hamed/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "hamed"
+
+
+
+
+
+
+
+        
       }
     },
     {
