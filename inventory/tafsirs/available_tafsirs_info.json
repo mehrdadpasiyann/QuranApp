@@ -10,6 +10,19 @@
         "slug": "ar-tafsir-ibn-kathir"
       }
     ],
+    "fa": [
+      {
+        "key": "fa_tafsir-Al-Saadi",
+        "name": "Tafsir Ibn Al-Saadi ",
+        "author": "Al-Saadi ",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "slug": "fa-tafisr-Al-Saadi"
+
+
+
+         }
+    ],
     "en": [
       {
         "key": "en_tafsir-ibn-kathir",
@@ -18,6 +31,10 @@
         "langCode": "en",
         "langName": "English",
         "slug": "en-tafisr-ibn-kathir"
+
+
+
+        
       }
     ],
     "ur": [
