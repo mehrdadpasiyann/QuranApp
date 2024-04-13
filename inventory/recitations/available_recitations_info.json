@@ -5,7 +5,7 @@
   "reciters": [
     {
       "slug": "abdul-basit",
-      "reciter": "عبدالباسط محمد عبدالصمد ",
+      "reciter": "عبدالباسط مdحمد عبدالصمد ",
       "style": "تجوید",
       "url-host": null,
       "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
