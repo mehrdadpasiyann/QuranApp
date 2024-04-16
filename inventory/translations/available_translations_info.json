@@ -27,25 +27,6 @@
         "langName": "English",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/en/en_yusuf-ali.json"
-
-
- },
- "en_hussein_taji_kal_dari": {
-        "name": "Hussein Taji Kal Dari",
-           "author": "Hussein Taji Kal Dari",
-        "langName": "English",
-           "langCode": "en",
-        "lastUpdated": 1658517131580,
- "downloadPath": "inventory/translations/en/en_hussein.json"
-
-
-
-
-
-
-
-
-        
       },
       "en_irving": {
         "book": "Dr. T.B. Irving [Muhammad Hijab]",
