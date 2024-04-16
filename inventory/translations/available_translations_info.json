@@ -134,6 +134,18 @@
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+
+
+},
+      "fa-hussein-taji": {
+        "book": "تفسیر راستین ترجمه تیسیر کریم الرحمن",
+        "author": "Hussein Taji Kal Dari",
+        "displayName": "Hussein Taji Kal Dari",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/fa/fa_hussein.json"
+        
       }
     },
     "fr": {
