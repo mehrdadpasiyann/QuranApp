@@ -125,30 +125,35 @@
         "downloadPath": "inventory/translations/es/es_noor_international.json"
       }
     },
-    "fa": {
-      "fa_islamhouse": {
+    "fr": {
+      "fr-hussein-taji": {
         "book": "تفسیر راستین ترجمه تیسیر کریم الرحمن",
         "author": "محمدگل گمشادزهی",
         "displayName": "تفسیر راستین ترجمه تیسیر کریم الرحمن",
-        "langCode": "fa",
+        "langCode": "fr",
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
-        "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+        "downloadPath": "inventory/translations/fr/fr-hussein-taji.json"
 
 
 },
       
-  
-      "name": "Hussein Taji Kal Dari",
-      "author_name": "Hussein Taji Kal Dari",
-      "slug": "fr-hussein-taji",
-      "language_name": "persian",
-      "translated_name": {
-        "name": "Hussein Taji Kal Dari",
-        "language_name": "english"
-                "downloadPath": "inventory/translations/fa/fr_Hussein.json"
 
-        
+
+ },
+      "fr_rashid": {
+        "book": "Rashid Maash",
+        "author": "Rashid Maash",
+        "displayName": "Rashid Maash",
+        "langCode": "fr",
+        "langName": "Français",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/fr/fr_rashid.json"
+
+
+
+
+      
       }
     },
     "fr": {
