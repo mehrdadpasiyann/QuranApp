@@ -134,6 +134,23 @@
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+
+
+
+
+   },
+      "fr-hussein-taji": {
+        "book": "Hussein Taji Kal Dari",
+        "author": "Hussein Taji Kal Dari",
+        "displayName": "Hussein Taji Kal Dari",
+        "langCode": "fr",
+        "langName": "Français",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/fr/fr_tafisr.json"
+
+
+
+        
       }
     },
     "fr": {
