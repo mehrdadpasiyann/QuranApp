@@ -83,7 +83,15 @@
         "downloadPath": "inventory/translations/en/en_abdul-haleem.json"
       }
     },
-
+    "bn": {
+      "bn_mujibur-rahman": {
+        "book": "বাংলা তাফসীর কুরআনুল কারীম",
+        "author": "শেখ মুজিবুর রহমান",
+        "displayName": "বাংলা তাফসীর কুরআনুল কারীম",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_mujibur-rahman.json"
       }
     },
     "de": {
@@ -126,12 +134,6 @@
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
-
-
-
-
-
-        
       }
     },
     "fr": {
@@ -266,7 +268,36 @@
         "lastUpdated": 1680342202171,
         "downloadPath": "inventory/translations/tr/tr_elmalili.json"
       }
-  
+    },
+    "ur": {
+      "ur_jalandhari": {
+        "book": "فتح محمد جالندھری",
+        "author": "فتح محمد جالندھری",
+        "displayName": "جالندھری",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_jalandhari.json",
+        "hasAudio": true
+      },
+      "ur_israr-ahmad": {
+        "book": "بیان القرآن",
+        "author": "ڈاکٹر اسرار احمد",
+        "displayName": "بیان القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_israr-ahmad.json"
+      },
+      "ur_maududi": {
+        "book": "تفہيم القرآن",
+        "author": "سید ابو الاعلیٰ مودودی",
+        "displayName": "تفہيم القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_maududi.json"
+      }
     },
     "uk": {
       "uk_mikhailo": {
