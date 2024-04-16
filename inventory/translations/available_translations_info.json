@@ -138,15 +138,16 @@
 
 },
       
-      "fa_hussein": {
-        "id": 29,
-        "book": "Hussein Taji Kal Dari",
-        "author": "Hussein Taji Kal Dari",
-        "displayName": "Hussein Taji Kal Dari",
-        "langCode": "fa",
-        "langName": "فارسی",
-        "lastUpdated": 1678915800000,
-        "downloadPath": "inventory/translations/fa/fa_hussein.json"
+     id": 29,
+      "name": "Hussein Taji Kal Dari",
+      "author_name": "Hussein Taji Kal Dari",
+      "slug": "fr-hussein-taji",
+      "language_name": "persian",
+      "translated_name": {
+        "name": "Hussein Taji Kal Dari",
+        "language_name": "english"
+                "downloadPath": "inventory/translations/fa/fr_Hussein.json"
+
         
       }
     },
