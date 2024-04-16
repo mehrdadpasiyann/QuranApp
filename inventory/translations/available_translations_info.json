@@ -134,6 +134,20 @@
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+
+
+ },
+      "fr-hussein-taji": {
+        "book": "Abdul Haleem",
+        "author": "Hussein Taji Kal Dari",
+        "displayName": "Hussein Taji Kal Dari",
+        "langCode": "fr",
+        "langName": "English",
+        "lastUpdated": 1678915800000,
+        "downloadPath": "inventory/translations/fa/fr-hussein-taji.json"
+
+
+        
       }
     },
     "fr": {
