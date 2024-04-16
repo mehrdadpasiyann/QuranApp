@@ -33,8 +33,10 @@
  "en_hussein_taji_kal_dari": {
         "name": "Hussein Taji Kal Dari",
         "author_name": "Hussein Taji Kal Dari",
-        "slug": "fr-hussein-taji",
         "language_name": "persian",
+           "langCode": "en",
+        "lastUpdated": 1658517131580,
+
         "translated_name": {
           "name": "Hussein Taji Kal Dari",
           "language_name": "فارسی"
