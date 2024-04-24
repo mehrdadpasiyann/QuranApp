@@ -28,13 +28,13 @@
     },
     {
       "slug": "Musayev",
-      "lang-code": "az",
+      "lang-code": "fa",
       "lang-name": "آذربایجان",
       "reciter": "Musayev",
       "url-host": null,
-      "url-path": "/res/audio/az.Musayev/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/res/audio/fa.Musayev/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "az": "Musayevv "
+        "fa": "Musayevv "
 
         
       }
