@@ -134,6 +134,15 @@
         "langName": "فارسی",
         "lastUpdated": 1678915800000,
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+      },
+      "fa_taji-kal-dari": {
+        "book": "ترجمه تاج خروس و کلمات دری",
+        "author": "نام نویسنده / مترجم",
+        "displayName": "ترجمه کلمات دری",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "lastUpdated": 1719835240000,
+        "downloadPath": "inventory/translations/fa/fa_taji-kal-dari.json"
       }
     },
     "fr": {
@@ -212,7 +221,7 @@
     "ml": {
       "ml_hamid-kanhi": {
         "book": "അബ്ദുൽ ഹമീദ് & പറപ്പൂർ",
-        "author": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനി, കുഞ്ഞിമുഹമ്മദ് പറപ്പൂർ",
+        "author": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനി, കുഞ്ഞിമുحمد പറപ്പൂർ",
         "displayName": "അബ്ദുൽ ഹമീദ് & പറപ്പൂർ",
         "langCode": "ml",
         "langName": "മലയാളം",
@@ -307,7 +316,7 @@
         "langCode": "uk",
         "langName": "українська",
         "lastUpdated": 1707048963878,
-        "downloadPath": "inventory/translations/uk/uk_mikhailo.json"
+        "downloadPath": "inventory/translations/fa/fa_taji-kal-dari.json"
       }
     }
   }
