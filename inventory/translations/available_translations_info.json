@@ -136,7 +136,7 @@
         "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
       },
       "fa_taji-kal-dari": {
-        "book": "ترجمه تاج خروس و کلمات دری",
+        "book": "ترجمه تاج کال دری,
         "author": "نام نویسنده / مترجم",
         "displayName": "ترجمه کلمات دری",
         "langCode": "fa",
