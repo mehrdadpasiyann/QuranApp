@@ -22,16 +22,6 @@
       "translations": {
         "fa": "پرهیزکار"
 
-}
-    },
-    {
-       "slug": "Yaser_Salamah",
-      "reciter": "استاد yaser پرهیزگار",
-      "style": "تهران-ایران",
-      "url-host": null,
-      "url-path": "/res/audio/salamah/{chapNo:%03d}{verseNo:%03d}.mp3",
-      "translations": {
-        "fa": "پرهیزکار"
 
 }
     },
