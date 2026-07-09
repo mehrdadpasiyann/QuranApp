@@ -8,7 +8,7 @@
       "reciter": "عبدالباسط محمد عبدالصمد ",
       "style": "تجوید",
       "url-host": null,
-      "url-path": "/res/audio/abdulbasit-mjwd/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "url-path": "/AbdulBaset/Mujawwad/mp3/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
         "fa": "عبدالباسط محمد عبدالصمد"
       }
