@@ -4,7 +4,7 @@
   },
   "reciters": [
     {
-      "slug": "abdulbasit",
+      "slug": "abdul-basit",
       "reciter": "عبدالباسط محمد عبدالصمد ",
       "style": "تجوید",
       "url-host": null,
@@ -26,13 +26,13 @@
 }
     },
     {
- "slug":"abdulbasit",
+ "slug":"muhammad-ayyub",
       "reciter": "محمد ایوب",
       "style":"عربستان سعودی",
       "url-host": null,
       "url-path": "/res/audio/ayyub/{chapNo:%03d}{verseNo:%03d}.mp3",
       "translations": {
-        "fa": "ایوبی"
+        "fa": "ایوب"
 
 }
     },
